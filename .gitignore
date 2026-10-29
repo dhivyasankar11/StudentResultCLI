@@ -1,0 +1,13 @@
+# Compiled executable
+
+StudentResultCLI.exe
+StudentResultCLI
+
+# IDE settings
+
+.vscode/
+
+# Temporary files
+
+*.tmp
+*.log
