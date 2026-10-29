@@ -1,6 +1,6 @@
-# Compiled executable
+# Compiled executables
 
-StudentResultCLI.exe
+*.exe
 StudentResultCLI
 
 # IDE settings
