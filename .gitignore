@@ -1,9 +1,9 @@
-# Compiled executables
+# Compiled executable files
 
 *.exe
 StudentResultCLI
 
-# IDE settings
+# VS Code settings
 
 .vscode/
 
